@@ -11,7 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 } */
-*{
+/* *{
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
@@ -89,6 +89,6 @@ code {
  }
  
  footer {
-  background-color: black;
+  background-color: gray;
   height: 60vh;
- }
+ } */
