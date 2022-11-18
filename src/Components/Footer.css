@@ -1,5 +1,5 @@
 .footer-clean {
-    padding:50px 0;
+  
     background-color:rgb(207, 201, 201);
     color:#4b4c4d;
   }
@@ -78,15 +78,9 @@
   }
   
   .footer-clean .copyright {
-    margin-top:14px;
-    margin-bottom:0;
-    font-size:13px;
-    opacity:0.6;
-  }
-  .avatar {
-    vertical-align: middle;
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
-  }
   
+    align-content: center;
+    font-size: 28.5px;
+    
+  }
+ 
